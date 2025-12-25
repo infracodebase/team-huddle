@@ -1,4 +1,4 @@
-# team-huddle
+# Azure Resource Group Infra
 
 This repository contains Terraform configuration for creating and managing Azure infrastructure for the team-huddle project.
 
